@@ -120,6 +120,24 @@
       "url": "https://github.com/gg949/CFSM-Glassmorphism",
       "branch": "theme-dist",
       "author": "allury"
+    },
+    {
+      "id": "noteee",
+      "title": "noteee",
+      "cover": "https://raw.githubusercontent.com/gg949/noteee-probedeck/main/preview/list-light.png",
+      "tags": [
+        "Notebook",
+        "Handwritten",
+        "Cards",
+        "Realtime"
+      ],
+      "description": {
+        "zh-CN": "复古笔记本手账风主题。米黄格纸配墨绿墨水，红色装订线、盖章式在线状态与打字机等宽数字，卡片 / 列表双视图，含硬件占用、流量、延迟、到期与费用。基于上游 bluesmkun/noteee 移植适配 ProbeDeck。",
+        "en": "A retro notebook-journal theme: cream graph paper, dark green ink, red binding line, stamp-style status and typewriter digits. Card / list views with hardware, traffic, latency, expiry and billing. Ported from the upstream bluesmkun/noteee theme for ProbeDeck."
+      },
+      "url": "https://github.com/gg949/noteee-probedeck",
+      "branch": "build",
+      "author": "gg949"
     }
   ]
 }
