@@ -138,6 +138,24 @@
       "url": "https://github.com/gg949/noteee-probedeck",
       "branch": "build",
       "author": "gg949"
+    },
+    {
+      "id": "sao",
+      "title": "SAO",
+      "cover": "https://raw.githubusercontent.com/gg949/ProbeDeck-SAO/main/preview.png",
+      "tags": [
+        "SAO",
+        "Cards",
+        "Charts",
+        "Realtime"
+      ],
+      "description": {
+        "zh-CN": "SAO 系列探针主题（Lumina 设计家族）。双栏总览仪表盘、多种卡片视图与节点详情延迟 / 负载图表，支持 24 探测点与 30 天历史。基于上游 WAOR/CFSM-SAO 适配 ProbeDeck。",
+        "en": "The SAO series probe theme (Lumina design family) with a two-column dashboard, multiple card views and per-node latency / load charts. ProbeDeck-adapted (24 probe slots, 30-day history) from the upstream WAOR/CFSM-SAO."
+      },
+      "url": "https://github.com/gg949/ProbeDeck-SAO",
+      "branch": "dist",
+      "author": "WAOR"
     }
   ]
 }

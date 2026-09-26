@@ -2,7 +2,7 @@
 
 ProbeDeck 主题商店目录。面板（v2.12.5+）从本仓库的 `themes.json` 拉取商店列表。
 
-- 现有 8 个主题（Emerald / Pulse / LuminaPlus / Horizon / Junimo / Shadcn / Glassmorphism / noteee）顺序固定，**不要改它们的 `id` / 顺序 / `url`**。
+- 现有 9 个主题（Emerald / Pulse / LuminaPlus / Horizon / Junimo / Shadcn / Glassmorphism / noteee / SAO）顺序固定，**不要改它们的 `id` / 顺序 / `url`**。
 - 内置 Mikus 写在面板里，不进本仓库。
 - 新第三方主题**追加到数组末尾**，不要插到中间。
 - 加主题 = 改本仓库并 push。已升级到 v2.12.5+ 的面板约 5 分钟后自动出现新卡，不用发面板版。
